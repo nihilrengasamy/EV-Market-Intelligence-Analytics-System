@@ -88,6 +88,3 @@ Each dashboard is designed to answer a specific analytical question while mainta
 - Project documentation
 
 ---
-
-## 👤 Author
-**Manojkumar Mohankumar**
